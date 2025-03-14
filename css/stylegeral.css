@@ -74,7 +74,7 @@ body {
     padding: 0 10px;
 }
 
-.form-container input {
+#form-container input {
     width: 100%;
     padding: 10px;
     margin-bottom: 8px;
@@ -117,7 +117,7 @@ body {
     color: #0072b8;
 }
 
-.cadastrar-button {
+#cadastrar-button {
     background-color: #0095f6;
     color: #fff;
     border: none;
@@ -159,3 +159,4 @@ body {
 .conecte-se:hover {
     color: #0072b8;
 }
+
